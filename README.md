@@ -17,4 +17,6 @@ NASA CMAPSS Dataset
 - Confusion matrix and classification metrics
 
 ## Author
+
 Abdelmajid Ouchni
+If GitHub fails to render the notebook preview, please download the notebook and open it with Jupyter Notebook/Jupyter Lab.
