@@ -19,4 +19,5 @@ NASA CMAPSS Dataset
 ## Author
 
 Abdelmajid Ouchni
-If GitHub fails to render the notebook preview, please download the notebook and open it with Jupyter Notebook/Jupyter Lab.
+
+## If GitHub fails to render the notebook preview, please download the notebook and open it with Jupyter Notebook/Jupyter Lab.
